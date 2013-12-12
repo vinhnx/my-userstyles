@@ -48,3 +48,7 @@ More help: http://userstyles.org/help/stylish_chrome
 ## License ##
 
 http://creativecommons.org/publicdomain/zero/1.0/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinhnx/my-userstyles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
